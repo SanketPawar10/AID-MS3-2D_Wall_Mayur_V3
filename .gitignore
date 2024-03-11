@@ -1,0 +1,4 @@
+.vs/
+/build/
+CMakeUserPresets.json
+thirdparty/qt6/msvc2019_64

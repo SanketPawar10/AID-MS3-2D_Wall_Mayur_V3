@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>icons/folder-open.svg</file>
+	<file>icons/file.svg</file>
+	<file>icons/save.svg</file>
+	<file>icons/save-as.svg</file>
+	<file>icons/zoom-in.svg</file>
+	<file>icons/zoom-out.svg</file>
+	<file>icons/pan_view.svg</file>
+	<file>icons/asset_store.svg</file>
+	<file>icons/zoom_view.svg</file>
+	<file>icons/tile_placing_window.svg</file>
+	<file>icons/caret-up.png</file>
+	<file>icons/caret-down.png</file>
+
+
+</qresource>
+</RCC>

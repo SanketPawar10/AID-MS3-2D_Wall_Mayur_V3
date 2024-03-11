@@ -1,0 +1,9 @@
+{
+	"name": "InteriorEquipmentObjects",
+	"translationName": "_$(DLCPackages.DLCName.InteriorEquipmentObjects)",
+	"type": "StandardObject3dLibrary",
+	"size": "53,3 MB",
+	"version": "1.0",
+	"language": [],
+	"host": []
+}

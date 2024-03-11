@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><materials>
+<material name="1">
+<ambient rgb="0.000000,0.000000,0.000000"/>
+<diffuse rgb="1.000000,1.000000,1.000000"/>
+<specular rgb="1.000000,1.000000,1.000000"/>
+<emission rgb="1.000000,1.000000,1.000000"/>
+<shininess val="0"/>
+<transparency>0.0000</transparency>
+<mapping_size x="100.0000" y="100.0000"/>
+<mapping_offset x="0.0000" y="0.0000"/>
+<angle>0.0000</angle>
+<extend>
+<metalness val="0.0000" source=""/>
+<roughness val="0.4000" source=""/>
+<specular val="0.3000" source=""/>
+<emission val="0.0000" rgb="1.000000,1.000000,1.000000" source=""/>
+<normal val="1.0000" source=""/>
+<parallax val="0.1000" source=""/>
+<ambientOclussion source=""/>
+</extend>
+</material>
+<material name="2">
+<ambient rgb="0.000000,0.000000,0.000000"/>
+<diffuse rgb="1.000000,1.000000,1.000000"/>
+<specular rgb="0.000000,0.000000,0.000000"/>
+<emission rgb="1.000000,1.000000,1.000000"/>
+<shininess val="9"/>
+<transparency>0.0000</transparency>
+<mapping_size x="1.0000" y="1.0000"/>
+<mapping_offset x="0.0000" y="0.0000"/>
+<angle>0.0000</angle>
+<tex_map source="1.JPG"/>
+<extend>
+<metalness val="0.0000" source=""/>
+<roughness val="1.0000" source=""/>
+<specular val="0.5000" source=""/>
+<emission val="0.0000" rgb="1.000000,1.000000,1.000000" source=""/>
+<normal val="1.0000" source=""/>
+<parallax val="0.1000" source=""/>
+<ambientOclussion source=""/>
+</extend>
+</material>
+<material name="4">
+<ambient rgb="0.000000,0.000000,0.000000"/>
+<diffuse rgb="1.000000,1.000000,1.000000"/>
+<specular rgb="0.000000,0.000000,0.000000"/>
+<emission rgb="1.000000,1.000000,1.000000"/>
+<shininess val="9"/>
+<transparency>0.0000</transparency>
+<mapping_size x="1.0000" y="1.0000"/>
+<mapping_offset x="0.0000" y="0.0000"/>
+<angle>0.0000</angle>
+<tex_map source="2.JPG"/>
+<extend>
+<metalness val="0.0000" source=""/>
+<roughness val="1.0000" source=""/>
+<specular val="0.5000" source=""/>
+<emission val="0.0000" rgb="1.000000,1.000000,1.000000" source=""/>
+<normal val="1.0000" source=""/>
+<parallax val="0.1000" source=""/>
+<ambientOclussion source=""/>
+</extend>
+</material>
+<material name="5">
+<ambient rgb="0.000000,0.000000,0.000000"/>
+<diffuse rgb="1.000000,1.000000,1.000000"/>
+<specular rgb="1.000000,1.000000,1.000000"/>
+<emission rgb="1.000000,1.000000,1.000000"/>
+<shininess val="0"/>
+<transparency>0.0000</transparency>
+<mapping_size x="100.0000" y="100.0000"/>
+<mapping_offset x="0.0000" y="0.0000"/>
+<angle>0.0000</angle>
+<extend>
+<metalness val="0.0000" source=""/>
+<roughness val="0.1000" source=""/>
+<specular val="0.3000" source=""/>
+<emission val="0.0000" rgb="1.000000,1.000000,1.000000" source=""/>
+<normal val="1.0000" source=""/>
+<parallax val="0.1000" source=""/>
+<ambientOclussion source=""/>
+</extend>
+</material>
+<material name="6">
+<ambient rgb="0.000000,0.000000,0.000000"/>
+<diffuse rgb="1.000000,1.000000,1.000000"/>
+<specular rgb="1.000000,1.000000,1.000000"/>
+<emission rgb="1.000000,1.000000,1.000000"/>
+<shininess val="0"/>
+<transparency>0.0000</transparency>
+<mapping_size x="100.0000" y="100.0000"/>
+<mapping_offset x="0.0000" y="0.0000"/>
+<angle>0.0000</angle>
+<extend>
+<metalness val="1.0000" source=""/>
+<roughness val="0.5000" source=""/>
+<specular val="0.3000" source=""/>
+<emission val="0.0000" rgb="1.000000,1.000000,1.000000" source=""/>
+<normal val="1.0000" source=""/>
+<parallax val="0.1000" source=""/>
+<ambientOclussion source=""/>
+</extend>
+</material>
+<material name="7">
+<ambient rgb="0.000000,0.000000,0.000000"/>
+<diffuse rgb="0.800000,0.800000,0.800000"/>
+<specular rgb="1.000000,1.000000,1.000000"/>
+<emission rgb="1.000000,1.000000,1.000000"/>
+<shininess val="0"/>
+<transparency>0.0000</transparency>
+<mapping_size x="100.0000" y="100.0000"/>
+<mapping_offset x="0.0000" y="0.0000"/>
+<angle>0.0000</angle>
+<extend>
+<metalness val="0.0000" source=""/>
+<roughness val="0.4000" source=""/>
+<specular val="0.3000" source=""/>
+<emission val="0.0000" rgb="1.000000,1.000000,1.000000" source=""/>
+<normal val="1.0000" source=""/>
+<parallax val="0.1000" source=""/>
+<ambientOclussion source=""/>
+</extend>
+</material>
+</materials>

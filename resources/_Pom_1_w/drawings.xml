@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><drawing name="">
+<bounding_box>
+<min xy="0,0"/>
+<max xy="635.5,312.5"/>
+</bounding_box>
+<bounding_contour/>
+<block name="">
+<bounding_box>
+<min xy="0,0"/>
+<max xy="635.5,312.5"/>
+</bounding_box>
+<pen id="0"/>
+<segment>
+<begin xy="635.5,0"/>
+<end xy="635,0"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="42,71.499"/>
+<end xy="42,37"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="5,71.499"/>
+<end xy="5,252.499"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="5,37"/>
+<end xy="5,71.499"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="635.116,312"/>
+<end xy="635.116,37"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="5,252.499"/>
+<end xy="5,294"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="635,312"/>
+<end xy="635.116,312"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="42,294"/>
+<end xy="42,252.499"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="42,252.499"/>
+<end xy="42,71.499"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="617,312"/>
+<end xy="635,312"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="5,0"/>
+<end xy="5,37"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="635.5,37"/>
+<end xy="635.5,0"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="635,294"/>
+<end xy="635,37"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="42,312"/>
+<end xy="517,312"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="635.116,37"/>
+<end xy="635,37"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="617,0"/>
+<end xy="42,0"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="635,37"/>
+<end xy="635.116,37"/>
+</segment>
+<segment>
+<begin xy="635.116,37"/>
+<end xy="635.5,37"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="517,312"/>
+<end xy="617,312"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="5,312"/>
+<end xy="42,312"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="5,294"/>
+<end xy="5,312"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="635,0"/>
+<end xy="617,0"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="635,312"/>
+<end xy="635,294"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="42,0"/>
+<end xy="5,0"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="635,37"/>
+<end xy="635,312"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="42,37"/>
+<end xy="42,294"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="0,252.499"/>
+<end xy="5,252.499"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="5,71.499"/>
+<end xy="0,71.499"/>
+</segment>
+<pen id="0"/>
+<pen id="0"/>
+<segment>
+<begin xy="0,71.499"/>
+<end xy="0,252.499"/>
+</segment>
+<pen id="0"/>
+<pen id="0"/>
+<pen id="0"/>
+<pen id="0"/>
+<pen id="0"/>
+<pen id="0"/>
+<pen id="0"/>
+<pen id="0"/>
+<pen id="0"/>
+<pen id="0"/>
+<pen id="0"/>
+<segment>
+<begin xy="529.586,312"/>
+<end xy="530.086,312.5"/>
+</segment>
+<pen id="0"/>
+<pen id="0"/>
+<segment>
+<begin xy="530.086,312.5"/>
+<end xy="545.5,312.5"/>
+</segment>
+<pen id="0"/>
+<segment>
+<begin xy="545.5,312.5"/>
+<end xy="545,312"/>
+</segment>
+</block>
+</drawing>

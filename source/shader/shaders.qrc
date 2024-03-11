@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>default.vert</file>
+	<file>test.frag</file>
+	<file>gizmo.vert</file>
+	<file>gizmo.frag</file>
+	<file>outline.vert</file>
+	<file>outline.frag</file>
+</qresource>
+</RCC>

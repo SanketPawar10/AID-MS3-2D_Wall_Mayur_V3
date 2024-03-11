@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/interiorTileObjects">
+    <file alias="Object3d/Dorado29-8-x-29-8-cm.png">Object3d/Dorado29-8-x-29-8-cm.png</file>
+    <file alias="Object3d/Dorado29-8-x-29-8-cm.xobj3d">Object3d/Dorado29-8-x-29-8-cm.xobj3d</file>
+    <file alias="Object3d/Phonique30x60x0.8cm.png">Object3d/Phonique30x60x0.8cm.png</file>
+    <file alias="Object3d/Phonique30x60x0.8cm.xobj3d">Object3d/Phonique30x60x0.8cm.xobj3d</file>
+    <file alias="Object3d/Vernisse10x10x0.85cm.png">Object3d/Vernisse10x10x0.85cm.png</file>
+    <file alias="Object3d/Vernisse10x10x0.85cm.xobj3d">Object3d/Vernisse10x10x0.85cm.xobj3d</file>
+    </qresource>
+</RCC>
